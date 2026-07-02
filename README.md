@@ -1,4 +1,5 @@
-In addition to being designed to work with water glyphs continuous analog substrate (see zip folder), this version is being designed to work with: https://github.com/stealthmachines/HDGL-fabric/tree/v0.2
+In addition to being designed to work with water glyphs continuous analog substrate (see zip folder), this version is being designed to work with:
+https://github.com/stealthmachines/HDGL-fabric/tree/v0.2
 https://josefkulovany.com/demo/6.26.26%20-%20HDGL%20Alternative%20Fabric/
 https://github.com/stealthmachines/HDGL-golden-dome/tree/v0.1
 https://github.com/stealthmachines/hdgl-zero/tree/v0.7
