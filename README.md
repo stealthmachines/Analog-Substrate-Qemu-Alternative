@@ -1,3 +1,7 @@
+In addition to being designed to work with water glyphs continuous analog substrate (see zip folder), this version is emergently designed to work with https://github.com/stealthmachines/HDGL-fabric/tree/v0.2
+
+See also: https://josefkulovany.com/demo/6.26.26%20-%20HDGL%20Alternative%20Fabric/6.30.26%20-%20day%204%20combined%20works/
+
 # hdgl_runtime — HDGL Continuous Analog Substrate Runtime
 
 **The complete QEMU alternative. Reliable real-metal emulation.**
